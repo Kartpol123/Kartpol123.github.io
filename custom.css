@@ -1,0 +1,56 @@
+.img{
+    width: 23rem;
+    height: 15rem;
+    border-radius: 20px;
+}
+.img-g{
+    width: 39rem;
+    height: 35rem;
+    border-radius: 20px;
+}
+.img-bot{
+    width: 75%;
+    height: 65%;
+    border-radius: 20px;
+}
+body{
+    background-color: #181C14;
+}
+.text{
+    color: #869a80;
+}
+.bg{
+    background-color: #3C3D37;
+    border-radius: 10px;
+}
+.head{
+    font-family: "Taviraj", serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 120px;
+    color: #ECDFCC;
+}
+.ecd{
+    color: #ECDFCC;
+}
+.c69{
+    color: #697565;
+}
+.thai-head{
+    font-family: "Taviraj", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+.thai-text{
+    font-family: "Taviraj", serif;
+    font-weight: 400;
+    font-size: 21px;
+}
+.bg{
+    background-color: #3C3D37;
+}
+.br-10{
+    width: 400px;
+    height: 550px;
+    border-radius: 20px;
+}
